@@ -1,3 +1,9 @@
+/*
+Author: W3layout
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+*/
 h4, h5, h6,
 h1, h2, h3 {margin-top: 0;}
 ul, ol {margin: 0;}
@@ -906,9 +912,9 @@ ul.megamenu.skyblue {
   padding: 6px 16px;
   font-size: 0.8725em;
   font-weight: 300;
-  color: #f9f9f9;
-  border: 1px solid #f9f9f9;
-  background: none;
+  color: #000000;
+  border: 1px solid #000000;
+  background: #000000;
   text-decoration: none;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -916,8 +922,8 @@ ul.megamenu.skyblue {
   transition: all 0.3s ease-in-out;
 }
 .crt-btn a:hover{
-  background:#ff6978;
-  border:1px solid #ff6978;
+  background:#ffffff;
+  border:1px solid #ffffff;
 }
 .arriv-info1 {
   position: absolute;

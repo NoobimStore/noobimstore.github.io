@@ -1,2 +1,2 @@
-# noobimstore.github.io
+# noobimstore.github.com
 Site

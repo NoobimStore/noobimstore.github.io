@@ -6,6 +6,7 @@ html, body{
 	font-family: 'Roboto', sans-serif;
 	font-size: 100%;
 	background: #ffffff;
+	color: #000000;
 }
 body a{
 	transition:0.5s all;
@@ -865,7 +866,6 @@ ul.megamenu.skyblue {
   top: 216px;
   left: 119px;
   text-align: center;
-  color: black;
 }
 .arriv-right {
   padding-right: 0;
